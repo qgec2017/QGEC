@@ -66,6 +66,12 @@ p {
 
 section {
     padding: 100px 0;
+    min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
 }
 
 aside {
@@ -562,5 +568,9 @@ body {
 
 .contactus{
     background-color: #FF4D4D;
+    color: white;
+}
+
+.headertext {
     color: white;
 }
