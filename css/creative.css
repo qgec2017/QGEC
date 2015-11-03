@@ -481,7 +481,7 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
-.img{
+.logo{
     width: 35px;
     height: auto;
     margin-top: -5px;
@@ -543,24 +543,20 @@ body {
     max-height: 300px;
     max-width: 300px;
 
-}
+} 
 
 .yuchen {
     max-height: 300px;
     max-width: 300px;
 
 
-}
-
-.space {
-    height: 20px;
-    width: 500px;
-}
+} 
 
 .jaynesh {
     max-height: 300px;
     max-width: 300px;
-}
+} 
+
 .yujaytxt {
     color: #f05f40;
 }
