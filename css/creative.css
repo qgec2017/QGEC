@@ -490,8 +490,6 @@ body {
 
 .flip-container {
     perspective: 1000;
-    display: inline-block;
-    vertical-align: top;
 }
 /* flip the pane when hovered */
 .flip-container:hover .flipper, .flip-container.hover .flipper {
@@ -508,6 +506,7 @@ body {
     transition: 0.6s;
     transform-style: preserve-3d;
     position: relative;
+
 }
 
 /* hide back of pane during swap */
@@ -517,8 +516,6 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    display: inline-block;
-    vertical-align: top;
 }
 
 
@@ -537,26 +534,24 @@ body {
 }
 
 .temp {
-    margin: 15px;
     display: inline-block;
     vertical-align: top;
     max-height: 300px;
     max-width: 300px;
+    margin: 15px;
 
-} 
+}
 
 .yuchen {
     max-height: 300px;
     max-width: 300px;
 
-
-} 
+}
 
 .jaynesh {
     max-height: 300px;
     max-width: 300px;
-} 
-
+}
 .yujaytxt {
     color: #f05f40;
 }
