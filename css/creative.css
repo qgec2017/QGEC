@@ -280,7 +280,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: black;
+    background: #f05f40;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -553,7 +553,7 @@ body {
     max-width: 300px;
 }
 .yujaytxt {
-    color: #f05f40;
+    color: black;
 }
 
 .exec {
@@ -575,5 +575,5 @@ body {
     background-color: black;
 }
 .boxColor {
-    background-color: white;
+    background-color: black;
 }
