@@ -51,13 +51,17 @@ p {
     line-height: 1.5;
 }
 
+#ourTeam {
+    background-color: black;
+}
+
 .bg-primary {
     background-color: #f05f40;
 }
 
 .bg-dark {
     color: #fff;
-    background-color: #222;
+    background-color: #FF4D4D;
 }
 
 .text-faded {
@@ -553,7 +557,8 @@ body {
     max-width: 300px;
 }
 .yujaytxt {
-    color: black;
+    color: white;
+    background-color: #f05f40;
 }
 
 .exec {
@@ -562,7 +567,7 @@ body {
 }
 
 .contactus{
-    background-color: #FF4D4D;
+    background-color: #f05f40;
     color: white;
 }
 
@@ -577,3 +582,4 @@ body {
 .boxColor {
     background-color: black;
 }
+
